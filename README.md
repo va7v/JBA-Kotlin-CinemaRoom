@@ -1,1 +1,1 @@
-# JBA-Kotlin-CinemaRoom
+# JBA-Kotlin-JetBrains course tasks
